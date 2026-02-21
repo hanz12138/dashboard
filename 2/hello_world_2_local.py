@@ -25,7 +25,7 @@ chart_to_show = (
     )
 )
 #long-hand
-#st.altair_chart(chart_to_show, use_container_width=True)
+st.altair_chart(chart_to_show, use_container_width=True)
 
 #short-hand
 #chart_to_show
